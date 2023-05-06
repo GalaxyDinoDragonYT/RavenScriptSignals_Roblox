@@ -2,8 +2,8 @@
 [Get it on Roblox](https://www.roblox.com/library/13362367568/RavenScriptSignals)
 
 ## Table of Contents
-  + Module Functions And Classes
-  + Code Samples
+  + [Module Functions And Classes](#table-of-contents)
+  + [Code Samples](#code-samples)
 
 ---
 
