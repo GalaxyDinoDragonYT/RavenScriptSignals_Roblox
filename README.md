@@ -5,6 +5,8 @@
   + Module Functions And Classes
   + Code Samples
 
+---
+
 ## Module Functions And Classes
   This section contains lists of functions found in the module and what they do. I know they shouldn't really be called classes but it's the closest I could get so. 
   
@@ -73,7 +75,9 @@
   
   #### Listener.code
     + The function that runs when a signal is reccived.
-	
+    
+ ---
+    
   ## Code Samples
   
   #### Simple single script emitter system
@@ -118,3 +122,5 @@ For example you could:
 
 return ravenScriptSignals
 ```
+
+Any suggestions or bugs, create an issue. 
